@@ -2,6 +2,8 @@
 This is a simple angular based application developed with typescript and bootstrap, firebase is used as the backend.
 
 ---------------------------------------------
+install nodejs and angular latest cli version.
+download the .rar file.
 1.mount the folder of angular app in command prompt.
 2.use command npm install to install the node js dependent modules.
 3.ng serve command is used to run the project in the localhost in your browser.
